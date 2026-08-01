@@ -22,18 +22,25 @@ Ensure you have the following tools installed on your local machine:
 ### Step 1: Fork and Clone the Repository
 1. Click the **Code** button at the top right of this GitHub page to get the link of this repository.
 2. Clone your forked repository to your computer:
-   ```bash
-   git clone https://github.com/MarisolAL/7003-git-mini-workshop.git
-   cd 7003-git-mini-workshop
-   ```
+
+```bash
+git clone https://github.com/MarisolAL/7003-git-mini-workshop.git
+cd 7003-git-mini-workshop
+```
+
+Or you can use GitHub CLI:
+
+```bash
+gh repo clone MarisolAL/7003-git-mini-workshop
+```
 
 ### Step 2: Generate Your Anonymous Hash
 
 Run the interactive Python script included in the repository to generate your unique hash ID:
 
-    ```bash
-   python3 scripts/generate_hash.py
-   ```
+```bash
+python3 scripts/generate_hash.py
+```
 
 The script will ask your Full Name and University ID and will output a 12-character Hash ID (e.g., `a5b8f7e29c1d`). Save this hash!
 
