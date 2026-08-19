@@ -1,5 +1,5 @@
 import hashlib
-
+asda
 def generate_anonymous_id():
     print("--- Git Lab Privacy ID Generator ---")
     full_name = input("Enter your full legal name: ").strip().lower()
@@ -17,3 +17,6 @@ def generate_anonymous_id():
 
 if __name__ == "__main__":
     generate_anonymous_id()
+sdfsf
+7bb82961ead18ac0ffefe3fd8d0ce2da6651aac8
+asdsad
