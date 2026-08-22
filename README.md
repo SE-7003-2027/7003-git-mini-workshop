@@ -19,7 +19,7 @@ Ensure you have the following tools installed on your local machine:
 
 ## 📑 Step-by-Step Instructions
 
-### Step 1: Fork and Clone the Repository
+### Step 1: Clone the Repository
 1. Click the **Code** button at the top right of this GitHub page to get the link of this repository.
 2. Clone your forked repository to your computer:
 
