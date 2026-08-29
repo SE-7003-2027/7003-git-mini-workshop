@@ -1,4 +1,9 @@
 {
-  "students": ["786d3c4125d1", "a24bec43e440", "2fc4acae2ec","beb845dbf1af", "e940b3a57b1e", "fd0ec957c99f"],
-  "teachers": ["718cb7e11fcd"]
+    "students": ["786d3c4125d1",
+		 "a24bec43e440",
+		 "2fc4acae2ec",
+		 "beb845dbf1af",
+		 "e940b3a57b1e",
+		 "fd0ec957c99f"],
+    "teachers": ["718cb7e11fcd"]
 }
