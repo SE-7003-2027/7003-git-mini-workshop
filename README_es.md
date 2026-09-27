@@ -1,5 +1,3 @@
-Aquí tienes la traducción del README manteniendo todos los tecnicismos en inglés:
-
 # Git Mini Workshop
 
 ¡Bienvenido al taller de Git! En esta tarea práctica aprenderás a hacer **fork**, trabajar con **feature branches**, seguir los éstandares de **commit**, resolver **merge conflicts** y abrir un **Pull Request (PR)**.
