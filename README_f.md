@@ -6,3 +6,7 @@ This is a fake README just for testing things.
 
 - This is one more change of the README
 - This is the second instruction (?)
+
+# Just more things
+
+- Adding text to create commit
