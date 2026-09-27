@@ -18,6 +18,26 @@ Asegúrate de tener instaladas las siguientes herramientas en tu máquina local:
 
 ---
 
+## 🛠️ Ejercicios del Workshop
+
+### Ejercicio 1: Basicos de Git
+*(Sigue las intrucciones de abajo sobre la rama `main`)*
+
+---
+
+### Ejercicio 2: Práctica de rebases interactivos
+
+Este ejercicio se encuentra en su propia rama dedicada.
+
+#### Instrucciones:
+1. **Fetch y checkout en la rama del ejercicio:**
+   ```bash
+   git fetch origin
+   git checkout exercise/rebase-practice
+   ```
+
+---
+
 ## 📑 Instrucciones paso a paso
 
 ### Step 1: Clona el Repositorio

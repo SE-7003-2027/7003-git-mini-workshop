@@ -17,7 +17,26 @@ Ensure you have the following tools installed on your local machine:
 
 ---
 
-## 📑 Step-by-Step Instructions
+## 🛠️ Workshop Exercises
+
+### Exercise 1: Git Basics
+*(Follow the instructions above on the `main` branch)*
+
+---
+
+### Exercise 2: Interactive Rebase Practice
+This exercise takes place on a dedicated practice branch.
+
+#### Instructions:
+1. **Fetch and checkout the exercise branch:**
+   ```bash
+   git fetch origin
+   git checkout exercise/rebase-practice
+   ```
+
+---
+
+## 📑 Step-by-Step Instructions (For **exercise 1**)
 
 ### Step 1: Clone the Repository
 1. Click the **Code** button at the top right of this GitHub page to get the link of this repository.
